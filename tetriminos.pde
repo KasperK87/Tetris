@@ -9,3 +9,6 @@ PVector[] SPiece = {new PVector(0,0), new PVector(0,1),
                     
 PVector[] JPiece = {new PVector(0,0), new PVector(0,1), 
                     new PVector(1,1), new PVector(2,1)} ;
+                    
+PVector[] LPiece = {new PVector(0,0), new PVector(1,0), 
+                    new PVector(2,0), new PVector(0,1)} ;
