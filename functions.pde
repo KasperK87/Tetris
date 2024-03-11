@@ -50,6 +50,7 @@ PVector[] createNewPiece(){
     case 4:
       pTetrimino = JPiece;
       break; 
+
     default:
       pTetrimino = OPiece;
       break;
