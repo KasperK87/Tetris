@@ -40,17 +40,15 @@ PVector[] createNewPiece(){
     case 2:
       pTetrimino = SPiece;
       break;  
-
-      break;
-          case 3:
+   case 3:
       pTetrimino = rSPiece;
       break;
-          case 4:
+   case 4:
       pTetrimino = TPiece;
       break;
-          case 5:
+   case 5:
       pTetrimino = LPiece;
-            break;
+      break;
     default:
       pTetrimino = OPiece;
       break;
